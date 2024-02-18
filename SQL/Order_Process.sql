@@ -121,7 +121,7 @@ where warehouse_id=2;
 select * from ShipmentDatesFromWarehouse2;
 
 
--- Delete all orders for customer named "Kumar".
+-- Delete all orders for customer named "Kumar"
 delete from Orders 
 where cust_id = (select cust_id from Customers where cname like "%Kumar%");
 
