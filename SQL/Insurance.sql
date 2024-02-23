@@ -1,5 +1,4 @@
 drop database InsuranceFix;
-
 create database InsuranceFix;
 use InsuranceFix;
 
