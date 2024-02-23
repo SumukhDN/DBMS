@@ -1,4 +1,5 @@
 drop database Sailor;
+
 create database Sailor;
 use Sailor;
 
