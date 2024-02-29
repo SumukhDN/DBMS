@@ -1,5 +1,4 @@
 drop database order_processing;
-
 create database order_processing;
 use order_processing;
 
