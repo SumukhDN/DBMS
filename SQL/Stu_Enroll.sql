@@ -1,4 +1,5 @@
 drop database Stu_Enrollment;
+
 create database Stu_Enrollment;
 use Stu_Enrollment;
 
